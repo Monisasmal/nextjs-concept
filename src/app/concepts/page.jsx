@@ -7,7 +7,7 @@ const concepts = [
   {name: "page.js VS layout.js", path:"/concepts/pageVSlayout"},
   {name:  "What is Nested Routing?", path:"/concepts/nestedRouting"},
   {name:  "What is Nested Layout?", path:"/concepts/NestedLayout"},
-  // {name:  "What is Link Component?", path:"/concepts/LinkComponent"},
+  {name:  "What is Link Component?", path:"/concepts/LinkComponent"},
   // {name:  "What is Route Groups()?", path:"/concepts/RouteGroups"},
   // {name:  "What is Image Component?", path:"/concepts/ImageComponent"},
   // {name:  "How does Next.js handle fonts, SEO, metadata, and favicon?", path:"concepts/FontSEOMetadataFavicon"},
