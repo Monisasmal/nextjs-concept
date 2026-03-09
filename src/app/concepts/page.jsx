@@ -10,7 +10,7 @@ const concepts = [
   {name:  "What is Link Component?", path:"/concepts/LinkComponent"},
   {name:  "What is Route Groups()?", path:"/concepts/RouteGroups"},
   {name:  "What is Image Component?", path:"/concepts/ImageComponent"},
-  // {name:  "How does Next.js handle fonts, SEO, metadata, and favicon?", path:"concepts/FontSEOMetadataFavicon"},
+  {name:  "How does Next.js handle fonts, SEO, metadata, and favicon?", path:"concepts/FontSEOMetadataFavicon"},
   // {name:  "Difference between React Server Components and Client Components", path:"concepts/ServerVsClientComponent"},
   // {name:  "Understanding use client and Async Components in Next.js", path:"concepts/useClient&AsyncServerComponent"},
   // {name:  "What is params and searchParams?", path:"concepts/params&searchParams"},
