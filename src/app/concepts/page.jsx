@@ -13,7 +13,7 @@ const concepts = [
   {name:  "How does Next.js handle fonts, SEO, metadata, and favicon?", path:"concepts/FontSEOMetadataFavicon"},
   {name:  "Difference between React Server Components and Client Components", path:"concepts/ServerVsClientComponent"},
   {name:  "Understanding use client and Async Components in Next.js", path:"concepts/useClient&AsyncServerComponent"},
-  // {name:  "What is params and searchParams?", path:"concepts/params&searchParams"},
+  {name:  "What is params and searchParams?", path:"concepts/params&searchParams"},
   // {name:  "What is Dynamic Routing ?", path:"concepts/DynamicRouting"},
   // {name:  "What is useSearchParams?", path:"concepts/useSearchParams"},
   // {name:  "What is a Catch-All Segment?", path:"concepts/CatchAllSegments"},
