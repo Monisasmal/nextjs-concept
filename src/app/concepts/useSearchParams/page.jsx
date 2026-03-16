@@ -1,15 +1,6 @@
 
 
-"use client";
-export const dynamic = "force-dynamic";
-
-import { useSearchParams } from "next/navigation";
-
 export default function UseSearchParamsPage() {
-  const searchParams = useSearchParams();
-
-  const category = searchParams.get("category");
-  const page = searchParams.get("page");
 
   return (
     <article className="prose prose-slate max-w-none">
@@ -71,9 +62,9 @@ params.get("page") → "2"`}
       </h2>
 
       <p className="text-gray-600 mb-4">
-        Category: <strong>{category || "None"}</strong>
+        {/* Category: <strong>{category || "None"}</strong> */}
         <br />
-        Page: <strong>{page || "None"}</strong>
+        {/* Page: <strong>{page || "None"}</strong> */}
       </p>
 
       {/* REAL WORLD */}
