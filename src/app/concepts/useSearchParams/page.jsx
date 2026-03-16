@@ -1,10 +1,7 @@
-// export const metadata = {
-//   title: "useSearchParams in Next.js",
-//   description:
-//     "Learn what useSearchParams is in Next.js, why it is used, and how to read query parameters in client components.",
-// };
+
 
 "use client";
+export const dynamic = "force-dynamic";
 
 import { useSearchParams } from "next/navigation";
 
