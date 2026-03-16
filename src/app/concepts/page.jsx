@@ -15,7 +15,7 @@ const concepts = [
   {name:  "Understanding use client and Async Components in Next.js", path:"concepts/useClient&AsyncServerComponent"},
   {name:  "What is params and searchParams?", path:"concepts/params&searchParams"},
   {name:  "What is Dynamic Routing ?", path:"concepts/DynamicRouting"},
-  {name:  "What is useSearchParams?", path:"concepts/useSearchParams"},
+  // {name:  "What is useSearchParams?", path:"concepts/useSearchParams"},
   // {name:  "What is a Catch-All Segment?", path:"concepts/CatchAllSegments"},
   // {name:  "What is Server Side Data Fetching?", path:"concepts/ServerSideDataFetching"},
   // {name:  "What is Client Side Data Fetching?", path: "concepts/ClientSideDataFetching"},
