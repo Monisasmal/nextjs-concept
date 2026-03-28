@@ -27,7 +27,7 @@ const concepts = [
   {name: "What is Cache?", path:"concepts/CacheConcept"},
   {name: "What is not-found-js?", path:"concepts/NotFound"},
   {name: "What is generate Static Params?", path:"concepts/generateStaticParams"},
-  // {name: "What is use Server?", path:"concepts/useServer"},
+  {name: "What is use Server?", path:"concepts/useServer"},
   // {name: "What is use of useActionState?", path:"concepts/useActionState"},
   // {name: "What is use of useFormStatus()?", path:"concepts/useFormStatus"},
   // {name: "What is use of Redirect()?", path:"concepts/Redirect"},
