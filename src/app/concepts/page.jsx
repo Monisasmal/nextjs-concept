@@ -30,7 +30,7 @@ const concepts = [
   {name: "What is use Server?", path:"concepts/useServer"},
   {name: "What is use of useActionState?", path:"concepts/useActionState"},
   {name: "What is use of useFormStatus()?", path:"concepts/useFormStatus"},
-  // {name: "What is use of Redirect()?", path:"concepts/Redirect"},
+  {name: "What is use of Redirect()?", path:"concepts/Redirect"},
   // {name: "What is use of useRouter()?", path:"concepts/useRouter"},
   // {name: "What is Revalidate Path?", path:"concepts/RevalidatePath"},
   // {name: "What is onDemand Revalidation and revalidation?", path:"concepts/RevalidationVsOn-DemandRevalidation"},
