@@ -34,7 +34,7 @@ const concepts = [
   {name: "What is use of useRouter()?", path:"concepts/useRouter"},
   {name: "What is Revalidate Path?", path:"concepts/RevalidatePath"},
   {name: "What is onDemand Revalidation and revalidation?", path:"concepts/RevalidationVsOn-DemandRevalidation"},
-  // {name: "What is need of loading.js?", path:"concepts/LoadingConcept"},
+  {name: "What is need of loading.js?", path:"concepts/LoadingConcept"},
   // {name: "What is need of error.js?", path:"concepts/ErrorConcept"},
   // {name: "What is Middleware?", path:"concepts/MiddlewareConcept "},
   // {name: "What is Hydration?", path:"concepts/Hydration"},
