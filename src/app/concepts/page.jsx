@@ -36,7 +36,7 @@ const concepts = [
   {name: "What is onDemand Revalidation and revalidation?", path:"concepts/RevalidationVsOn-DemandRevalidation"},
   {name: "What is need of loading.js?", path:"concepts/LoadingConcept"},
   {name: "What is need of error.js?", path:"concepts/ErrorConcept"},
-  // {name: "What is Middleware?", path:"concepts/MiddlewareConcept "},
+  {name: "What is Middleware?", path:"concepts/MiddlewareConcept "},
   // {name: "What is Hydration?", path:"concepts/Hydration"},
   // {name: "What is Auth-guard?", path:"concepts/Auth-guard"},
   // {name: "What is Streaming?", path:"concepts/Streaming"},
