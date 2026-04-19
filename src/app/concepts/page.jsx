@@ -40,7 +40,7 @@ const concepts = [
   {name: "What is Hydration?", path:"concepts/Hydration"},
   {name: "What is Auth-guard?", path:"concepts/Auth-guard"},
   {name: "What is Streaming?", path:"concepts/Streaming"},
-  // {name: "What is difference between next VS react?", path:"concepts/NextVsReact"},
+  {name: "What is difference between next VS react?", path:"concepts/NextVsReact"},
   // {name: "What is Build VS Runtime?", path:"concepts/BuildVsRuntime"},
 ];
 
