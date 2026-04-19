@@ -41,7 +41,7 @@ const concepts = [
   {name: "What is Auth-guard?", path:"concepts/Auth-guard"},
   {name: "What is Streaming?", path:"concepts/Streaming"},
   {name: "What is difference between next VS react?", path:"concepts/NextVsReact"},
-  // {name: "What is Build VS Runtime?", path:"concepts/BuildVsRuntime"},
+  {name: "What is Build VS Runtime?", path:"concepts/BuildVsRuntime"},
 ];
 
 export default function Concepts() {
